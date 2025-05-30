@@ -198,6 +198,8 @@
       "type": 0,
       "url": "https://iptv.crestekk.cn/txt/cqyx.txt",
       "playerType": 3
+"epg": "https://iptv.crestekk.cn/epgphp/index.php?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
     }
   ]
 }
