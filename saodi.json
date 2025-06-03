@@ -1,6 +1,6 @@
 {
   "spider": "http://211.154.28.50:5898/kkw/ou.jar",
-  "wallpaper": "https://gitee.com/xiaohaibo66/cs/raw/master/hy.webp",
+  "wallpaper": "https://jar.u.xn--dkw.xn--6qq986b3xl/m/jar.php?id=index;md5;ca6858586b97f51af3f0a6b2ce3070ad",
   "warningText": "欢迎使用，遇到疑问请咨询客服",
   "sites": [
     {"key":"豆瓣2","name":"超级VIP影视","type":3,"api":"csp_Douban","searchable":0},
