@@ -196,9 +196,9 @@
       "logo": "https://live.fanmingming.com/tv/{name}.png"
     },
     {
-      "name": "IPV6",
+      "name": "IPTV",
       "type": 0,
-      "url": "https://iptv.crestekk.cn/txt/cqyx.txt",
+      "url": "https://codeberg.org/xiaohaibo/Diana/raw/branch/main/qwtys.png",
       "playerType": 3,
 "epg": "https://iptv.crestekk.cn/epgphp/index.php?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
