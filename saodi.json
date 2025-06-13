@@ -198,7 +198,7 @@
     {
       "name": "IPTV",
       "type": 0,
-      "url": "https://gitee.com/xiaohaibo66/cs/raw/master/lib/qwtys.png",
+      "url": "https://codeberg.org/xiaohaibo/Diana/raw/branch/main/yidong.png",
       "playerType": 3,
 "epg": "https://iptv.crestekk.cn/epgphp/index.php?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
