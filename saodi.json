@@ -222,7 +222,7 @@
       "url": "https://codeberg.org/xiaohaibo/Diana/raw/branch/main/qwtys.png",
       "playerType": 3,
 "epg": "https://iptv.crestekk.cn/epgphp/index.php?ch={name}&date={date}",
-      "logo": "https://epg.iill.top/logo/{name}.png"
+      "logo": "https://iptv.crestekk.cn/epgphp/index.php?ch={name}.png"
     }
   ]
 }
