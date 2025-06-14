@@ -11,6 +11,13 @@
       "https://www.dsxysproo.com/dqvodshow/{cateId}-{area}--{class}-----{catePg}---{year}.html",
       "分类":"电视剧$2#电影$1#动漫$4#综艺$3"}
       },  
+     {
+            "key": "可可影视",
+            "name": "可可｜影视",
+            "type": 3,
+            "api": "csp_XBPQ",
+            "ext": "https://gitee.com/PizazzXS/another-d/raw/master/movie/json/KKYS.json"
+        },
   {
 "key":"瓜子影视","name":"💡瓜子（优质专线）","type":3,"api":"csp_Gz360",
 "searchable":1,"quickSearch":1,"filterable":1
