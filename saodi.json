@@ -93,6 +93,20 @@
     {
       "key":"csp_XYQHiker_农民影视","name":"手机版资源(普清)","type":3,"api":"csp_XYQHiker","searchable":1,"quickSearch":1,"filterable":1,"ext":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/master/json/nmys.json"
     },
+  {
+            "key": "雄鹰",
+            "name": "雄鹰｜APP",
+            "type": 3,
+            "quickSearch": 1,
+            "api": "csp_AppGet2",
+            "ext": {
+                "url": "http://122.228.193.2:9988",
+                "dataKey": "ca94b06ca359d80e",
+                "dataIv": "ca94b06ca359d80e",
+                "deviceId": "",
+                "version": "120"
+            }
+          },
     {"key":"金牌影视PY","name":"🐶综艺动漫｜1080p","type":3,"api":"https://py.nxog.eu.org/https://raw.githubusercontent.com/ouhaibo1980/tvbox/refs/heads/main/plugin/html/金牌.py","searchable":1,"quickSearch":1,"filterable":1,"playerType":2,"ext":{"site":"https://www.hkybqufgh.com,https://www.sizhengxt.com,https://0996zp.com,https://9zhoukj.com/,https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn,https://cqzuoer.com"}
     },
     {
@@ -208,7 +222,7 @@
       "url": "https://codeberg.org/xiaohaibo/Diana/raw/branch/main/yidong.png",
       "playerType": 3,
 "epg": "https://iptv.crestekk.cn/epgphp/index.php?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"
+      "logo": "https://epg.iill.top/logo/{name}.png"
     }
   ]
 }
