@@ -186,4 +186,195 @@
       "type": 0,
       "url": "http://iptv.cqshushu.com/?s=111.26.72.89%3A9901&t=hotel&channels=1&format=m3u",
       "playerType": 3,
-      "epg": "https://iptv.crestekk.cn/epgphp/index.php?c
+      "epg": "https://iptv.crestekk.cn/epgphp/index.php?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+    }
+    ], 
+    "parseFlag": [
+
+        "youku", 
+        "qq", 
+        "iqiyi", 
+        "qiyi", 
+        "letv", 
+        "sohu", 
+        "tudou",
+        "pptv", 
+        "xigua", 
+        "mgtv",
+        "bilibili",
+        "wasu",
+        "tucheng-"
+    ], 
+    "parseUrl": [
+        {
+            "parseName": "线路1", 
+            "parseUrl": "https://jx.jsonplayer.com/player/?url="
+        },
+        {
+            "parseName": "线路2", 
+            "parseUrl": "https://jx.jsonplayer.com/player/?url="
+        },
+        {
+            "parseName": "线路3", 
+            "parseUrl": "https://jx.jsonplayer.com/player/?url="
+        },
+        {
+            "parseName": "线路4", 
+            "parseUrl": "https://jx.jsonplayer.com/player/?url="
+        },
+        {
+            "parseName": "线路5", 
+            "parseUrl": "https://jx.jsonplayer.com/player/?url="
+        },
+        {
+            "parseName": "线路6", 
+            "parseUrl": "https://jx.quankan.app/?url="
+        },
+        {
+            "parseName": "线路7", 
+            "parseUrl": "https://jx.iztyy.com/svip/?url="
+        },
+        {
+            "parseName": "线路8", 
+            "parseUrl": "https://jx.iztyy.com/svip/?url="    
+        }
+    ], 
+    "filter": {
+         "base": [
+            "电视剧",
+            "连续剧", 
+            "电影", 
+            "剧集", 
+            
+        ], 
+        "adolescent": [
+           
+                "电影片", 
+                "二次元动漫", 
+              "电视直播", 
+               
+                 
+                        
+                 "综艺片", 
+                "动漫片", 
+            "伦理片", 
+            "连续剧", 
+       
+            "电视",
+            "伦理",
+            "公告",
+            "头条",
+            "少儿频道",
+            "影视资讯",
+            "电影资讯",
+            "电视资讯",
+            "综艺资讯",
+            "动漫资讯",
+            "B站",
+            "论理", 
+            "倫理", 
+            "福利", 
+            "激情", 
+            "理论", 
+            "写真", 
+            "情色", 
+            "美女", 
+            "街拍", 
+            "赤足", 
+            "性感", 
+            "里番",
+            "资讯",
+            "演员",
+            "M3U8.TV免费无广告解析",
+            "QQ群：152215685",
+            "明星娱乐",
+            "VIP"
+        ]
+    }, 
+    "ijk": {
+        "option_bak": [
+            "4|opensles|0", 
+            "4|overlay-format|842225234", 
+            "4|framedrop|1", 
+            "4|start-on-prepared|1", 
+            "1|http-detect-range-support|0", 
+            "2|skip_loop_filter|48", 
+            "4|reconnect|1", 
+            "4|enable-accurate-seek|1"
+        ], 
+        "option": [
+            "4|opensles|0", 
+            "4|overlay-format|842225234", 
+            "4|framedrop|1", 
+            "4|soundtouch|1", 
+            "4|start-on-prepared|1", 
+            "1|http-detect-range-support|0", 
+            "1|fflags|fastseek", 
+            "2|skip_loop_filter|48", 
+            "4|reconnect|1", 
+            "4|max-buffer-size|5242880", 
+            "4|enable-accurate-seek|0"
+        ], 
+        "config": [
+            {
+                "name": "软解码", 
+                "option": [
+                    "4|mediacodec|0", 
+                    "4|mediacodec-auto-rotate|0", 
+                    "4|mediacodec-handle-resolution-change|0", 
+                    "4|mediacodec-hevc|0"
+                ]
+            },
+            {
+                "name": "硬解码1", 
+                "option": [
+                    "4|mediacodec|1", 
+                    "4|mediacodec-auto-rotate|1", 
+                    "4|mediacodec-handle-resolution-change|1", 
+                    "4|mediacodec-hevc|1"
+                ]
+            },
+            {
+                "name": "硬解码2", 
+                "option": [
+                    "4|mediacodec|1", 
+                    "4|mediacodec-auto-rotate|1", 
+                    "4|mediacodec-handle-resolution-change|1", 
+                    "4|mediacodec-hevc|0"
+                ]
+            }
+        ]
+    }, 
+    "ads": [
+        "https://url.798dy.com/getadmr?url="
+    ],
+    "plb_0": [
+        "http://json.xn--654a.cc/home/api?type=ys&uid=1323246&key=dfiopqzEHJKNOPSTY5&url="
+    ],
+    "plb_1": [
+        "https://sz.dxzj88.com/jxrjrm/jiaomi.php?url="
+    ],
+    "plb_2": [
+        "https://vip.aiaine.com/api/?key=8FN8gNAySnvJiMllxZ&url="
+    ],
+    "txad": {
+        "tiepian_image": [
+            "2043085720"
+        ], 
+        "tiepian_video": [
+            "40938292527"
+        ], 
+        "pause_image": [
+            "9083791207"
+        ]
+    },
+    "ttad": {
+        "tiepian_image": [
+            "880263"
+        ], 
+        "tiepian_video": [
+            "948186"
+        ]
+    }
+}
