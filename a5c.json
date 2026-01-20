@@ -97,6 +97,14 @@
  "type":3,
  "api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/荐片app.js","ext":{"host":"https://ev2089.zxbwv.com","catesSet":"电影&电视剧&综艺&动漫&纪录片","tabsSet":"极速蓝光"}
 },
+ {
+      "key": "ikanbot",
+      "name": "ikanbot",
+      "type": 3,
+      "playerType": "2",
+      "api": "https://tvbox.catvod.com/js/drpy2.min.js",
+      "ext": "https://tvbox.catvod.com/js/ik.js"
+    },
 {
   "key":"永乐",
   "name":"🧿永乐影视1080P",
