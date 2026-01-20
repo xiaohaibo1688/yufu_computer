@@ -17,7 +17,9 @@
 "ext":"https://by1.430520.xyz/wb/down.php/babf927a0b08caa0824b723006693a4a.json",
 "jar":"https://ncstatic-file.clewm.net/rsrc/2025/0916/11/1275b576ff8340d0f20930745d5ac59c.jpg;md5;4d860d06ec233dbcb891b76055f099d5"
 },
-{"key":"apple","name":"🍋柠檬影视(测试)","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/apple.js"},
+{
+"key":"apple","name":"🍋柠檬影视(测试)","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/apple.js"
+},
 {
  "key": "zy_金鹰资源",
  "name": "🔰金鹰影视(1080P)",
@@ -110,15 +112,6 @@
       "style":{"type":"rect","ratio":1.597}
     },
    
-   {
-    "key":"csp_LiteApple",
-"name":"🍎苹果1080p","type":3,
-"api":"csp_LiteApple",
-"playerType":3,
-"searchable":1,
-"quickSearch":1,
-"filterable":1
-  },
   {
     "key":"金牌影视",
     "name":"🐶综艺动漫1080P",
@@ -137,7 +130,7 @@
   },
     {
     "key":"柠檬",
-    "name":"🍋柠檬影视1080P",
+    "name":"🍎苹果1080P",
     "type":3,
     "api":"csp_Nmvod",
     "playerType":2,
