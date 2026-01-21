@@ -18,7 +18,7 @@
 "jar":"https://ncstatic-file.clewm.net/rsrc/2025/0916/11/1275b576ff8340d0f20930745d5ac59c.jpg;md5;4d860d06ec233dbcb891b76055f099d5"
 },
 {
-"key":"apple","name":"🍋柠檬影视(测试)","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/apple.js"
+"key":"apple","name":"🍎苹果1080P","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/apple.js"
 },
 {
  "key": "zy_金鹰资源",
@@ -138,7 +138,7 @@
   },
     {
     "key":"柠檬",
-    "name":"🍎苹果1080P",
+    "name":"🍋柠檬影视",
     "type":3,
     "api":"csp_Nmvod",
     "playerType":2,
