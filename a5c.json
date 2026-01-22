@@ -189,6 +189,7 @@
       "url": "http://iptv.cqshushu.com/?s=111.26.72.89%3A9901&t=hotel&channels=1&format=m3u",
       "playerType": 3,
       "epg": "https://iptv.crestekk.cn/epgphp/index.php?ch={name}&date={date}",
-      "logo": "https://live.fanmingming.com/tv/{name}.png"   
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+}
 ]
     }
