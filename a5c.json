@@ -60,6 +60,15 @@
           "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
           "playerUrl": ""
         },
+   {
+"key":"zy_最大资源",
+"name":"🏠小小影视(1080p)",
+"type":1,
+"api":"https://zuidazy.me/api.php/provide/vod/",
+"searchable":1,
+"quickSearch":1,
+"filterable":1
+},
   
   {
     "key": "csp_TVB",
