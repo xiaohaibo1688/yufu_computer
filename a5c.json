@@ -60,6 +60,16 @@
           "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
           "playerUrl": ""
         },
+{
+"key":"苹果",
+"name":"🍎苹果1080P",
+"type":3,
+"api":"csp_LiteApple",
+"timeout":10,
+"searchable":1,
+"quickSearch":1,
+"changeable":1
+},
    {
 "key":"zy_最大资源",
 "name":"🏠小小影视(1080p)",
