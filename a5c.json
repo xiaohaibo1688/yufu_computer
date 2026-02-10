@@ -62,6 +62,7 @@
 "name":"🍎苹果1080P",
 "type":3,
 "api":"csp_LiteApple",
+"jar":"http://jar.jsy666.xyz/box/20250824.jar",
 "timeout":10,
 "searchable":1,
 "quickSearch":1,
