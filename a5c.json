@@ -162,6 +162,14 @@
       "quickSearch": 1,
       "filterable": 0
     },
+{
+    "key":"剧评",
+    "name":"🦚蓝光影视(1080P)",
+    "type":3,
+    "api":"csp_Jpys",
+    "playerType":3,
+    "jar":"https://gitee.com/xiaohaibo66/yfdn/raw/master/巧记411qtc.jar","ext":"7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
+  },
     {
     "key":"快豆",
     "name":"🦐快豆影视(1080略卡)",
