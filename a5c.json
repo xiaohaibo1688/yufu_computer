@@ -212,7 +212,7 @@
     {
       "name": "IPTV",
       "type": 0,
-      "url": "http://iptv.cqshushu.com/?s=111.26.72.89%3A9901&t=hotel&channels=1&format=m3u",
+      "url": "https://githubusercontent.com/q1017673817/iptvz/refs/heads/main/zubo_all.txt",
       "playerType": 3,
       "epg": "https://iptv.crestekk.cn/epgphp/index.php?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
