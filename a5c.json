@@ -212,7 +212,7 @@
     {
       "name": "IPTV",
       "type": 0,
-      "url": "https://live.264788.xyz/sub/02RZNrjpqTMOrSdPX7FPyOxgUlgHKh",
+      "url": "https://live.264788.xyz/sub/02RZNrjpqTMOrSdPX7FPyOxgUlgHKh/txt",
       "playerType": 3,
       "epg": "https://iptv.crestekk.cn/epgphp/index.php?ch={name}&date={date}",
       "logo": "https://live.fanmingming.com/tv/{name}.png"
