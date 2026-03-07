@@ -108,7 +108,7 @@
 {
  "key":"cat_荐片app",
  "name":"🍀渝福电脑P2P",
- "type":3,
+ "type":1,
  "api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/荐片app.js","ext":{"host":"https://ev2089.zxbwv.com","catesSet":"电影&电视剧&综艺&动漫&纪录片","tabsSet":"极速蓝光"}
 },
 {
