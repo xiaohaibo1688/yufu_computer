@@ -9,14 +9,12 @@
     "searchable":0,
     "ext": "https://codeberg.org/xiaohaibo/yfdnys/raw/branch/main/lib/douban.json"
     },
-   {
-"key":"VS",
-"name":"🐷一起看TV",
-"type":3,
-"api":"csp_XBPQ",
-"ext":"https://by1.430520.xyz/wb/down.php/babf927a0b08caa0824b723006693a4a.json",
-"jar":"https://ncstatic-file.clewm.net/rsrc/2025/0916/11/1275b576ff8340d0f20930745d5ac59c.jpg;md5;4d860d06ec233dbcb891b76055f099d5"
-},
+      {
+   "key":"三秋影视",
+   "name":"🦉三秋影视(4k超清)",
+   "type":3,
+   "api":"csp_App3Q"
+   },
 {
       "key": "csp_Wwys",
       "name": "🍎苹果1080",
