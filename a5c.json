@@ -109,6 +109,15 @@
 "playerType":1, "api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/荐片app.js","ext":{"host":"https://ev2089.zxbwv.com","catesSet":"电影&电视剧&综艺&动漫&纪录片","tabsSet":"极速蓝光"}
 },
 {
+   "key": "趣看",
+   "name": "💡趣看┃影视",
+   "type": 3,
+   "api": "csp_Qiji",
+   "playerType": 2,
+            "jar":"https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png",
+            "ext": "7lj763gg402i794245238hjjg45j8295k5hji64882862l321l4215hkkg1l5g001i9k5ihkj6539l8j2208h380k5h21hk8lj2l6k56l1g8i3k93k8i3ihj7hh5595il0glj1h0g0737h2h8652680i96l51h766khhg27j35h0igl5j69239l5311h113i71j974g8k1"
+        },
+{
   "key":"永乐",
   "name":"🧿永乐影视1080P",
   "type":3,"api":"csp_XBPQ",
