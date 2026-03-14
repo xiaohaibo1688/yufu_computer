@@ -106,8 +106,10 @@
 {
  "key":"cat_荐片app",
  "name":"🍀渝福电脑P2P",
- "type":3,
-"playerType":1, "api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/荐片app.js","ext":{"host":"https://ev2089.zxbwv.com","catesSet":"电影&电视剧&综艺&动漫&纪录片","tabsSet":"极速蓝光"}
+ "api":"csp_Jianpian", "jar":"https://gitee.com/xiaohaibo66/yfdn/raw/master/lib/feimao.jar",
+"type":3,
+"playerType":"2",
+"ext":"https://ev2089.zxbwv.com"
 },
 {
   "key":"永乐",
