@@ -35,63 +35,31 @@
       "ext": "https://vip.wwgz.cn:5200",
       "jar":"http://47.120.41.246:8025/vip/jar/xiaomi.php"
     },
-{
- "key": "zy_金鹰资源",
- "name": "🔰金鹰影视(1080P)",
- "type": 1,
- "api": "https://jyzyapi.com/provide/vod/",
- "searchable": 1,
- "quickSearch": 1,
- "categories": [
- "欧美剧",
- "香港剧",
- "韩剧",
- "日剧",
- "马泰剧",
- "动作片",
- "爱情片",
- "喜剧片",
- "科幻片",
- "恐怖片",
- "剧情片",
- "战争片",
- "记录片",
- "动漫",
- "内地剧",
- "动画片",
- "中国动漫",
- "日本动漫",
- "欧美动漫",
- "综艺",
- "台湾剧",
- "体育赛事"
-   ]
-},
         
      {
           "key": "量子",
-          "name": "🐬量子超清云",
+          "name": "🐬量子超清(1080p)",
           "type": 1, 
           "api": "http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
           "playerUrl": ""
         },
            {
           "key": "暴风",
-          "name": "🦁暴风超清云",
+          "name": "🦁暴风超清(1080p)",
           "type": 1, 
           "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
           "playerUrl": ""
         },
         {
           "key": "如意",
-          "name": "🐴如意超清云",
+          "name": "🐴如意超清(1080p)",
           "type": 1, 
           "api": "https://cj.rycjapi.com/api.php/provide/vod/?ac=list",
           "playerUrl": ""
         },
            {
           "key": "卧龙",
-          "name": "🐉卧龙超清云",
+          "name": "🐉卧龙超清(1080p)",
           "type": 1, 
           "api": "https://collect.wolongzyw.com/api.php/provide/vod",
           "playerUrl": ""
