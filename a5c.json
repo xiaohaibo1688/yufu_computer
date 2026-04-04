@@ -50,13 +50,6 @@
           "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
           "playerUrl": ""
         },
-        {
-          "key": "如意",
-          "name": "🐴如意超清(1080p)",
-          "type": 1, 
-          "api": "https://cj.rycjapi.com/api.php/provide/vod/?ac=list",
-          "playerUrl": ""
-        },
            {
           "key": "卧龙",
           "name": "🐉卧龙超清(1080p)",
