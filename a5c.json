@@ -66,20 +66,21 @@
         },
       
     {
-      "key": "小苹果弹幕版",
-      "name": "苹果┃蓝光",
+      "key": "Youtube",
+      "name": "⚡Youtube",
       "type": 3,
-      "api": "csp_AweSomeGuard",
+      "api": "csp_Youtube",
       "searchable": 1,
-      "quickSearch": 1,
       "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Xpg",
-        "danmu": true
+      "style": {
+        "type": "rect",
+        "ratio": 1.433
       },
-      "timeout": 10,
-      "jar": "http://oss4liview.moji.com/thd_file/2026/01/26/0e8629c873fea38d04bc58cbeb28c3c5.jpg;md5;127ea82cb8bf8a82f0cf64da66e39b60"
+      "ext": {
+        "commonConfig": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/peizhi.json",
+        "json": "https://gh-proxy.com/raw.githubusercontent.com/yoursmile66/TVBox/main/json/youtube.json"
+      },
+      "jar": "https://jihulab.com/yoursmile2/TVBox/-/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"
     },
            {
           "key": "卧龙",
