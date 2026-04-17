@@ -15,21 +15,7 @@
    "type":3,
    "api":"csp_App3Q"
    },
-{
-      "key": "一起看看",
-      "name": "📺一起秒播",
-      "type": 3,
-      "api": "csp_AweSomeGuard",
-      "jar": "https://gitee.com/hu-congrong/0201/raw/master/RinpMUTd.png",
-      "searchable": 1,
-      "quickSearch": 1,
-      "changeable": 1,
-      "filterable": 1,
-      "ext": {
-        "sp": "Yqs"
-      },
-      "timeout": 10
-    },
+
 {
       "key": "热播影视",
       "name": "🔥热播影视(1080P)",
