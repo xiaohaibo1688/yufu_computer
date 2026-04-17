@@ -66,16 +66,17 @@
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar"
     },
   {
-      "key": "hipy_js_看客视频",
-      "name": "看客视频(drpy_t3)",
-      "type": 3,
-      "api": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_libs/drpy2.min.js",
+      "key": "hipy_py_看客TV",
+      "name": "看客TV(hipy)",
+      "type": 4,
+      "api": "http://82.158.91.105:5757/api/看客TV?do=py&pwd=dzyyds",
       "searchable": 1,
-      "quickSearch": 1,
       "filterable": 1,
-      "order_num": 0,
-      "ext": "https://gitlab.com/duomv/dzhipy/-/raw/main/drpy_js/%E7%9C%8B%E5%AE%A2%E8%A7%86%E9%A2%91.js",
-      "jar": "https://gitlab.com/duomv/dzhipy/-/raw/main/jar/pg.jar?md5=7633f8ea346c082b7aa163be58aed023"
+      "quickSearch": 1,
+      "title": "看客TV",
+      "lang": "hipy",
+      "ext": "",
+      "jar": "http://82.158.91.105:5757/public/jar/custom_spider.jar;md5;cc3b3d2ddf389338b62eccd4a938b610"
     },
      {
           "key": "量子",
