@@ -37,7 +37,7 @@
     },
       {
       "key": "独播JS",
-      "name": "蜗牛┃独播",
+      "name": "蜗牛影视(1080P)",
       "type": 3,
       "api": "http://154.40.47.142:150/lib/wndb.js",
       "searchable": 1,
