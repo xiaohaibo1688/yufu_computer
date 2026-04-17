@@ -37,7 +37,7 @@
     },
       {
       "key": "独播JS",
-      "name": "蜗牛影视(1080P)",
+      "name": "🐌蜗牛影视(1080P)",
       "type": 3,
       "api": "http://154.40.47.142:150/lib/wndb.js",
       "searchable": 1,
@@ -65,7 +65,7 @@
       "name": "看客TV(hipy)",
       "type": 4,
       "api": "http://82.158.91.105:5757/api/看客TV?do=py&pwd=dzyyds",
-      "searchable": 1,
+      "searchable": 0,
       "filterable": 1,
       "quickSearch": 1,
       "title": "看客TV",
