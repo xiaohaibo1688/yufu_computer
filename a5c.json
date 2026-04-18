@@ -62,6 +62,12 @@
       "jar": "https://ghfast.top/https://raw.githubusercontent.com/IY-CPU/IY/main/spider.jar"
     },
   {
+      "key": "爱看机器1人",
+      "name": "🥇爱看影视",
+      "type": 3,
+      "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/爱看机器人.js"
+    },
+  {
       "key": "hipy_py_看客TV",
       "name": "看客TV(hipy)",
       "type": 4,
