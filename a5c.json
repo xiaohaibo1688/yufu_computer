@@ -68,14 +68,14 @@
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/爱看机器人.js"
     },
   {
-      "key": "红果短剧",
-      "name": "🍎红果短剧",
-      "type": 3,
-      "api": "csp_HongGuo",
-      "searchable": 1,
+      "api": "https://gitee.com/hu-congrong/0201/raw/master/lib/apiv405%E7%BA%A2%E6%9E%9C%E7%9F%AD%E5%89%A7.py",
+      "filterable": 1,
+      "key": "py_红果短剧",
+      "name": "💖红果短剧",
       "quickSearch": 1,
-      "changeable": 0,
-      "jar": "http://fmys.top/lib/fm.jar;md5;542ed744b07121213f70323b9bcbecca"
+      "searchable": 1,
+      "type": 3,
+      "jar": "https://gitee.com/hu-congrong/0201/raw/master/Yoursmile.jar;md5;c6aaf6a9498e1e1d07126779c687bdd8"
     },
   {
       "key": "hipy_py_看客TV",
