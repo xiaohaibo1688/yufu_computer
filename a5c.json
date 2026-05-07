@@ -107,9 +107,11 @@
            {
           "key": "暴风",
           "name": "🦁暴风超清(1080p)",
-          "type": 1, 
-          "api": "https://bfzyapi.com/api.php/provide/vod/?ac=list",
-          "playerUrl": ""
+            "type": 1,
+            "api": "https://bfzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
         },
       {
       "key": "油管webjar",
