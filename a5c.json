@@ -9,12 +9,42 @@
     "searchable":0,
     "ext": "https://codeberg.org/xiaohaibo/yfdnys/raw/branch/main/lib/douban.json"
     },
-      {
-   "key":"三秋影视",
-   "name":"🦉三秋影视(4k超清)",
-   "type":3,
-   "api":"csp_App3Q"
-   },
+     {
+            "key": "ttys",
+            "name": "🔥定制|4K①",
+            "type": 3,
+            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
+            "ext": "http://49.232.165.72:1234/js/qq.js"
+        },
+        {
+            "key": "机哥剧圈",
+            "name": "🔥定制|4K②",
+            "type": 3,
+            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
+            "ext": "http://49.232.165.72:1234/js/mg.js"
+        },
+        
+        {
+            "key": "爱奇艺弹幕",
+            "name": "🔥定制|爱2K①",
+            "type": 3,
+            "api": "https:\/\/gitee.com\/yuyu10588\/tt\/raw\/t\/t\/drpy2.min.js",
+            "ext": "http://49.232.165.72:1234/js/aiqiyi.js"
+        },
+        {
+            "key": "哔哩视频",
+            "name": "🔥定制|哔2K",
+            "type": 3,
+            "api": "https:\/\/gitee.com\/zj521jj\/little-tiger-spot\/raw\/master\/drpy_libs\/drpy2.min.js",
+            "ext": "https:\/\/app.69mini.com\/lib1\/bili.js"
+        },
+        {
+            "key": "hipy_js_优酷[官]",
+            "name": "🔥定制|酷2k",
+            "type": 3,
+            "api": "https:\/\/gitee.com\/zj521jj\/little-tiger-spot\/raw\/master\/drpy_libs\/drpy2.min.js",
+            "ext": "https:\/\/app.69mini.com\/lib1\/优酷[官].js"
+        },
 
 {
       "key": "热播影视",
