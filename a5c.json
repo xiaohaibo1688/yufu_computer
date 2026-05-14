@@ -72,6 +72,13 @@
       "ext": "",
       "jar": "http://82.158.91.105:5757/public/jar/custom_spider.jar;md5;cc3b3d2ddf389338b62eccd4a938b610"
     },
+   {
+      "key": "三秋影视",
+      "name": "💡三秋｜影视",
+      "type": 3,
+      "api": "csp_App3Q",
+      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0406/21/5b2f258907bc956ee3538c9f5cdf4b83.jpg;md5;5af5edf697f25b99eb189fb800e1d098"
+    },
    	{
 			"key":"GeeK IPTV",
 			"name":"🐢无尽资源(1080P)",
