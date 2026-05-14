@@ -79,17 +79,6 @@
       "api": "csp_App3Q",
       "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0406/21/5b2f258907bc956ee3538c9f5cdf4b83.jpg;md5;5af5edf697f25b99eb189fb800e1d098"
     },
-    {
-      "key": "csp_XYQH_大米星球",
-      "name": "⭐️大米星球[XH]",
-      "type": 3,
-      "api": "csp_XYQHiker",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "ext": "https://9xi4o.tk/TVB/XYQH/Aifan.json",
-      "jar": "https://9xi4o.tk/TVB/jar/xyqh.jar;md5;316660b0adb299c1dc63587579a3522e"
-    },
    	{
 			"key":"GeeK IPTV",
 			"name":"🐢无尽资源(1080P)",
