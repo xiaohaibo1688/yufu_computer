@@ -79,6 +79,17 @@
       "api": "csp_App3Q",
       "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0406/21/5b2f258907bc956ee3538c9f5cdf4b83.jpg;md5;5af5edf697f25b99eb189fb800e1d098"
     },
+   {
+      "key": "大米星球",
+      "name": "🌻大 APP🌻",
+      "type": 3,
+      "api": "csp_AppYsV2",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1,
+      "ext": "https://dmxq.info/api.php/app/",
+      "jar": "https://xpb.mhfs.eu.org/ZJ/XPB/spider20260509.jar"
+    },
    	{
 			"key":"GeeK IPTV",
 			"name":"🐢无尽资源(1080P)",
