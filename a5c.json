@@ -59,6 +59,18 @@
       "type": 3,
       "api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/爱看机器人.js"
     },
+  
+{
+"key":"多多",
+"name":"❤多多影视(4k超清)4K",
+"type":3,
+"api":"csp_PanWebShare",
+"searchable":1,
+"playerType":2,
+"quickSearch":1,
+"filterable":1,
+"changeable":1,"ext":{"site":["https://tv.yydsys.top","https://tv.yydsys.cc","https://tv.214521.xyz"]},"timeout":60
+},
   {
       "key": "hipy_py_看客TV",
       "name": "看客TV(hipy)",
@@ -72,13 +84,7 @@
       "ext": "",
       "jar": "http://82.158.91.105:5757/public/jar/custom_spider.jar;md5;cc3b3d2ddf389338b62eccd4a938b610"
     },
-   {
-      "key": "三秋影视",
-      "name": "💡三秋｜影视",
-      "type": 3,
-      "api": "csp_App3Q",
-      "jar": "https://ncstatic-file.clewm.net/rsrc/2026/0406/21/5b2f258907bc956ee3538c9f5cdf4b83.jpg;md5;5af5edf697f25b99eb189fb800e1d098"
-    },
+  
    {
       "key": "大米星球",
       "name": "🌻大米影视(1080p)",
