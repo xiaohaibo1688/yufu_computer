@@ -203,6 +203,12 @@
   "filterable":1
   },
 {
+"key":"瓜子影视",
+"name":"🥇瓜子影视(修复版)",
+"type":3,
+"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/py/瓜子.py","changeable":1
+},
+{
   "key":"永乐",
   "name":"🧿永乐影视1080P",
   "type":3,"api":"csp_XBPQ",
