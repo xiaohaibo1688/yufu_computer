@@ -4,7 +4,7 @@
   "warningText": "欢迎使用，遇到疑问请咨询客服",
   "sites": [
     {"key":"豆瓣2",
-    "name":"超级VIP影视",
+    "name":"超级VIP影视:资源抢修中……",
     "type":3,"api":"csp_Douban",
     "searchable":0,
     "ext": "https://codeberg.org/xiaohaibo/yfdnys/raw/branch/main/lib/douban.json"
