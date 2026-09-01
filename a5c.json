@@ -96,14 +96,7 @@
       "ext": "https://dmxq.info/api.php/app/",
       "jar": "https://xpb.mhfs.eu.org/ZJ/XPB/spider20260509.jar"
     },
-    {
-      "key": "3QQQ",
-      "name": "🍅大鹅影视(1080P)",
-      "type": 3,
-      "timeout": 15,
-      "api": "csp_App3Q",
-      "jar":"http://47.120.41.246:8025/vip/jar/xiaomi.php"
-    },
+    
    	{
 			"key":"GeeK IPTV",
 			"name":"🐢无尽资源(1080P)",
@@ -114,15 +107,7 @@
 			"quickSearch":1,
 			"filterable":1
 		},
-    {
-      "key": "nangua",
-      "name": "🎃南瓜秒播(1080P)",
-      "type": 3,
-      "api": "csp_NanGua",
-      "playerType": 2,
-      "jar": "https://8440.kstore.space/TV/jar/app.jar",
-      "ext": "7lj763gg0939795i017ii486k512jkihhilg9g0h96j865740113"
-    },
+    
      {
           "key": "量子",
           "name": "🐬量子超清(1080p)",
@@ -154,14 +139,7 @@
       "ext": "YoutubeSpider1$$$PL动作片#PL科幻片#PD沙雕穿越#中国动漫#PL小说#PL宝宝巴士#新闻直播#PL动物#PL风光#放松#PD短剧#PL战争剧#萌宝短剧#经典音乐#PL海洋#太空#穿越短剧",
       "filterable": 1
     },
-           {
-          "key": "卧龙",
-          "name": "🐉卧龙超清(1080p)",
-          "type": 1, 
-          "api": "https://collect.wolongzyw.com/api.php/provide/vod",
-          "playerUrl": ""
-        },
-       
+  
       {
       "key": "永夜",
       "name": "🏠家庭影院(1080P)",
@@ -171,28 +149,7 @@
       "playerType": 2,
       "ext": "7lj763gg0939790i413gjh9kk011jijiggll990k9li73l224k770ik0j10l502j2j9l798lhj778hh33g018h94k5j400kij3567j7gji97kkk4118421g03lll"
     },
-  {
-    "key": "csp_TVB",
-    "name": "🅱️TVB云播(1080P)",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "https://gitee.com/xiaohaibo66/yfdn/raw/master/lib/dx.jar",
-    "searchable": 1,
-   "quickSearch": 1,
-    "filterable": 1,
-   "ext": "https://gitee.com/xiaohaibo66/yfdn/raw/master/lib/TVB%E4%BA%91%E6%92%AD.json"
-  },
-          {
-     "key": "csp_xBPQ_奇优",
-     "name": "🅱️奇优影视(1080P)",
-    "type": 3,
-    "api": "csp_XBPQ",
-    "jar": "https://gitee.com/xiaohaibo66/yfdn/raw/master/lib/dx.jar",
-    "searchable": 1,
-    "quickSearch": 1,
-    "filterable": 1,
-   "ext": "https://gitee.com/xiaohaibo66/yfdn/raw/master/lib/%E5%A5%87%E4%BC%98%E5%BD%B1%E8%A7%86.json"
-    },
+  
 
   {
   "key":"瓜子影视",
@@ -223,13 +180,6 @@
       "style":{"type":"rect","ratio":1.597}
     },
    
-  {
-    "key":"天天",
-    "name":"☁天天影视（高峰期不卡）",
-    "type":3,
-    "api":"csp_TTian",
-    "playerType":2,       "jar":"https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png", "ext":"7lj763gg0939791h1l3888jig44gi291li"
-  },
     {
     "key":"柠檬",
     "name":"🍋柠檬影视(1080P)",
@@ -265,15 +215,7 @@
       "playerType": 2,
       "ext": "7lj763gg402i7942553393i9g44g8j82k2g9jg54ih863325555955g5g1595i1741i70lk1i00hji87320gh6j1gkkg0jh4g8697h06ghh3jhl5339731hj7hh5595ilkkkjhh8k261236896432i458hkk4i756kh5k3773jl2j8gj958228h178060g6h72j974g8k1"
     },
-    {
-    "key":"快豆",
-    "name":"🦐快豆影视(1080略卡)",
-    "type":1,
-    "api":"https://caiji.maotaizy.cc/api.php/provide/vod/from/mtm3u8/at/josn/",        "searchable":1,
-    "playerType": 2,
-    "quickSearch":1,
-    "filterable":1
-    },
+    
 
     {"key":"魔都资源",
     "name":"🌹魔都资源1080P",
