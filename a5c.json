@@ -224,13 +224,6 @@
     },
    
   {
-    "key":"金牌影视",
-    "name":"🐶综艺动漫1080P",
-    "type":3,
-    "api":"csp_Jpys",
-    "jar":"https://gitee.com/xiaohaibo66/yfdn/raw/master/lib/feimao.jar"
-     },
-  {
     "key":"天天",
     "name":"☁天天影视（高峰期不卡）",
     "type":3,
