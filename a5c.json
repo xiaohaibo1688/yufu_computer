@@ -80,14 +80,7 @@
                 "type":3,
                 "api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/荐片.js"
                 },
-        {
-    "key":"剧评",
-    "name":"🦚蓝光影视(1080P)",
-    "type":3,
-    "api":"csp_Jpys",
-    "playerType":3,
-    "jar":"https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png","ext":"7lj763gg402i7942463j9j9jh84l8798l8gli652828g332i"
-  },
+        {"key":"剧评","name":"🦚蓝光影视(1080P)","type":3,"api":"csp_Jpys","playerType":1,"jar":"https://ncstatic.clewm.net/rsrc/2025/0915/15/e210975c2c794cbc8bb1839b54ac213e.png;md5;939FFBC2941A28CA533F2653FA4B449E","ext":"7lj763gg402i7942463j9j9jh8579590k3hjii5gi4i73l2k5l"},
         {
  "key":"橘皮",
 "name":"🍊橘子影视(1080P)",
