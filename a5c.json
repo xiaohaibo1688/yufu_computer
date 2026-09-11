@@ -32,6 +32,9 @@
       "filterable": 0,
       "ext": {  "url": "http://v.rbotv.cn" }
     },
+  {
+"key":"VIP","name":"🥉VIP影视(1080P)","type":3,"api":"csp_XBPQ","jar":"https://ncstatic-file.clewm.net/rsrc/2026/0307/11/98d51d4d95c5cf1b67e74af45cc4445f.jpg;md5;4d860d06ec233dbcb891b76055f099d5","ext":{"\u526f\u6807\u9898":"\u6b27\u6b4c\u4e13\u5c5e","请求头":"User-Agent$MOBILE_UA","编码":"UTF-8","分类url":"https://www.vipdy.vip/;;!H"}
+},
    {
             "key": "橘汁",
             "name": "🍊橘子影视(1080P)",
