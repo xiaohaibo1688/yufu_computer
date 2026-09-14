@@ -71,12 +71,17 @@
         "api": "http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
          "playerUrl": ""
         },
-        {
-            "key":"金牌123",
-            "name":"🥇金牌影视(1080P)",
-            "type":3,
-            "api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/金牌影院.js"
-            },
+       
+            {
+            "key": "csp_Jpys",
+            "name": "🥇金牌影视(1080P)",
+            "type": 3,
+            "timeout": 12,
+            "searchable": 1,
+            "quickSearch": 0,
+            "api": "csp_Jpys",
+            "ext": "https://y2s52n7.com"
+        },
             {
                 "key":"荐片123",
                 "name":"🥇荐片影视(1080P)",
