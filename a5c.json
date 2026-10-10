@@ -42,7 +42,29 @@
         "api": "http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
          "playerUrl": ""
         },
-       
+          {
+      "key": "热播影视",
+      "name": "🔥热播影视",
+      "type": 3,
+      "api": "csp_AppRJ",
+      "jar": "https://gh-proxy.org/https://github.com/maccms2023/tvbox/raw/refs/heads/main/xiaosa.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": {
+        "url": "http://v.rbotv.cn"
+      }
+    },
+      {
+      "key": "一起影视",
+      "name": "👀一起看TV",
+      "type": 3,
+      "api": "csp_AppYQK",
+      "jar": "https://gh-proxy.org/https://github.com/maccms2023/tvbox/raw/refs/heads/main/xiaosa.jar",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0
+    },
             {
             "key": "csp_Jpys",
             "name": "🥇金牌影视(1080P)",
