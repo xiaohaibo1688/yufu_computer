@@ -42,17 +42,6 @@
         "api": "http://cj.lziapi.com/api.php/provide/vod/from/lzm3u8",
          "playerUrl": ""
         },
-       {
-      "key": "小苹果",
-      "name": "🍎苹果源(测试)",
-      "type": 3,
-      "api": "csp_LiteApple",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1,
-      "jar": "https://la.haotv.store/jar/hsj9.jar;md5;e7a4a3df91b752f74cb772d1cde14f86",
-      "playerType": "2"
-    },
           {
       "key": "热播影视",
       "name": "🔥热播影视",
