@@ -96,7 +96,8 @@
                  "searchable": 1,
                 "quickSearch": 1,
               "filterable": 1
-         },{
+         },
+      {
                    "key": "iQiYi影视",
                  "name": "🐆奇酷影视(1080p)",
                  "type": 1,
@@ -175,7 +176,93 @@
       "ext": "YoutubeSpider1$$$PL动作片#PL科幻片#PD沙雕穿越#中国动漫#PL小说#PL宝宝巴士#新闻直播#PL动物#PL风光#放松#PD短剧#PL战争剧#萌宝短剧#经典音乐#PL海洋#太空#穿越短剧",
       "filterable": 1
     },
+
 {
 "key":"木偶",
 "name":"❤木偶影视(4k超清)",
-"typ
+"type":3,"api":"csp_PanWebShare","searchable":1,
+"quickSearch":1,
+"playerType":2,
+"filterable":1,
+"changeable":1,"ext":{"site":["https://123.666291.xyz","https://666.666291.xyz","https://www.muou.site","https://www.muou.asia"]}
+},
+
+  
+    
+
+{
+"key":"独播库","name":"🥇影库影视(1080P)","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/VmOlRys8_vip.js"
+},
+
+   {
+          "key": "暴风",
+          "name": "🦁暴风超清(1080p)",
+            "type": 1,
+            "playerType": 2,
+            "api": "https://bfzyapi.com/api.php/provide/vod/",
+            "searchable": 1,
+            "quickSearch": 1,
+            "filterable": 1
+        },
+
+{
+"key":"多多",
+"name":"❤多多影视(4k超清)",
+"type":3,
+"api":"csp_PanWebShare",
+"searchable":1,
+"quickSearch":1,
+"filterable":1,
+"changeable":1,"ext":{"site":["https://tv.yydsys.top","https://tv.yydsys.cc","https://tv.214521.xyz"]},"timeout":60
+},
+   	
+    {
+    "key":"魔都资源",
+    "name":"🌹魔都资源(1080p)",
+    "type":1,
+    "playerType":2,
+    "api":"https://caiji.moduapi.cc/api.php/provide/vod/?ac=list",
+    "searchable":1,
+    "quickSearch":1,
+    "filterable":1
+    }
+  ],
+  "logo": "https://gitee.com/xiaohaibo66/cs/raw/master/mq.gif",
+  "lives": [
+    {
+      "name": "live",
+      "type": 0,
+      "url": "https://live.264788.xyz/sub/02RZNrjpqTMOrSdPX7FPyOxgUlgHKh",
+      "playerType": 3,
+      "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
+      "ua": "bingcha/1.1(mianfeifenxiang)",
+      "logo": "https://11.112114.xyz/logo/{name}.png"
+    },
+          {
+      "name":"凤凰",
+      "type":0,
+      "url":"https://raw.giteeusercontent.com/alexkw/app/raw/master/kgk.txt?metadata=eyJyIjoibWFzdGVyIiwiZnAiOiJrZ2sudHh0IiwicGlkIjozNjcxODEyOCwic3RvIjoiZ2l0LXNoYXJkaW5nLXN0by00MnQtMDAxIiwicnAiOiJyZXBvcy9jNC84OC9jNDg4ODkyM2I1ZjUyYWZiMjBmOTc5MmNiYmEyZDgwZDhhOGVhYWMzMWYwZGI5OTlmNTQ5Mjc5MmU1Y2I3YTgyLmdpdCIsImlzcCI6dHJ1ZSwiZXhwaXJlX2F0IjoxNzc4MDkyODAwfQ&signature=TU3A0hB_J_1jFGdlCWQ3C1Na1FnSb0lEdbpq-NisysM",
+      "epg":"http://epg.52sw.top:668/?ch={name}&date={date}",
+      "logo":"https://gongdian.top/tv/taibiao/{name}.png",
+      "playerType":2,
+      "timeout":10
+      },   
+    {
+      "name": "重庆移动",
+      "type": 0,
+      "url": "https://gh-proxy.com/https://github.com/tianze889/tvds/raw/refs/heads/main/tvdc.json",
+      "playerType": 3,
+      "epg": "https://tv.mxdyeah.top/epgphp/index.php?ch={name}&date={date}",
+      "ua": "okHttp/Mod-1.2.0",
+      "logo": "https://11.112114.xyz/logo/{name}.png"
+    },
+    {
+      "name": "IPTV",
+      "type": 0,
+      "url": "https://live.264788.xyz/sub/02RZNrjpqTMOrSdPX7FPyOxgUlgHKh",
+      "playerType": 3,
+      "epg": "https://iptv.crestekk.cn/epgphp/index.php?ch={name}&date={date}",
+      "logo": "https://live.fanmingming.com/tv/{name}.png"
+}
+]
+    }
