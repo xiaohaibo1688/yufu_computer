@@ -67,6 +67,26 @@
         "url": "http://v.rbotv.cn"
       }
     },
+    {
+      "key":"瓜子影视",
+      "name":"🍁瓜子影视(高峰期不卡)",
+      "type":3,
+      "api":"csp_Gz360"
+    },
+      {
+      "key":"茉莉",
+      "name":"🍁茉莉影视(含4k超清)",
+      "type":3,
+      "api":"csp_AppGet",
+      "searchable":1,
+      "changeable":1,
+      "ext":{
+        "site":"https://allinadmin.oss-cn-hangzhou.aliyuncs.com/bk/9.txt",
+        "dataKey":"88689667dce61725",
+        "dataIv":"88689667dce61725"
+      },
+      "hide":1
+    },
       {
       "key": "一起影视",
       "name": "👀一起看TV（1080P）",
