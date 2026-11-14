@@ -65,6 +65,9 @@
       "quickSearch": 1,
       "filterable": 1
     },
+   {
+"key":"yinyue","name":"\ud83c\udfad\u9177\u6211\u2503\u97f3\u4e50","type":3,"group":"5","api":"http://43.249.195.13:10213/pyy/kuwo.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},{"key":"DJ","name":"\ud83c\udfadDJ\u2503DJ\u6b4c","type":3,"group":"5","api":"http://43.249.195.13:10213/pyy/DJ.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1
+},
     {
       "key": "独播影视",
       "name": "🐶独库影视(1080P)",
