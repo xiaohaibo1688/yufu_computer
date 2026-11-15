@@ -66,11 +66,11 @@
       "filterable": 1
     },
    {
-"key":"yinyue","name":"\ud83c\udfad\u9177\u6211\u2503\u97f3\u4e50","type":3,"group":"5","api":"http://43.249.195.13:10213/pyy/kuwo.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},{"key":"DJ","name":"\ud83c\udfadDJ\u2503DJ\u6b4c","type":3,"group":"5","api":"http://43.249.195.13:10213/pyy/DJ.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1
+"key":"yinyue","name":"😎酷我音乐(听歌)","type":3,"group":"5","api":"http://43.249.195.13:10213/pyy/kuwo.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},{"key":"DJ","name":"\ud83c\udfadDJ\u2503DJ\u6b4c","type":3,"group":"5","api":"http://43.249.195.13:10213/pyy/DJ.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1
 },
 
 {
- "name":"\u2b50\u4e07\u5f69\u574a\u5f71\u89c6","type":3,"group":"1","api":"http://203.135.100.107:8866/asdasd/xinpy/\u4e07\u5f69\u574a\u5f71\u89c6.py","searchable":1,"category":"\u7efc\u5408"
+ "name":"⭐万彩影视(1080P)","type":3,"group":"1","api":"http://203.135.100.107:8866/asdasd/xinpy/\u4e07\u5f69\u574a\u5f71\u89c6.py","searchable":1,"category":"\u7efc\u5408"
 },
     {
       "key": "独播影视",
