@@ -66,7 +66,7 @@
       "filterable": 1
     },
    {
-"key":"yinyue","name":"😎酷我音乐(听歌)","type":3,"group":"5","api":"http://43.249.195.13:10213/pyy/kuwo.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1},{"key":"DJ","name":"\ud83c\udfadDJ\u2503DJ\u6b4c","type":3,"group":"5","api":"http://43.249.195.13:10213/pyy/DJ.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1
+"key":"yinyue","name":"😎酷我音乐(听歌)","type":3,"group":"5","api":"http://43.249.195.13:10213/pyy/kuwo.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1
 },
 
 {
