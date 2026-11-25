@@ -239,17 +239,15 @@
 "key":"独播库","name":"🥇影库影视(1080P)","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox@main/js/VmOlRys8_vip.js"
 },
 
-   {
-          "key": "暴风",
-          "name": "🦁暴风超清(1080p)",
-            "type": 1,
-            "playerType": 2,
-            "api": "https://bfzyapi.com/api.php/provide/vod/",
-            "searchable": 1,
-            "quickSearch": 1,
-            "filterable": 1
-        },
-
+      {
+      "key": "cms_baofeng",
+      "name": "🦁暴风超清(1080p)",
+      "type": 1,
+      "api": "https://bfzyapi.com/api.php/provide/vod/",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
 {
 "key":"多多",
 "name":"❤多多影视(4k超清)",
