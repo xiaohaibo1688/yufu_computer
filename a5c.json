@@ -69,7 +69,7 @@
    {
 "key":"yinyue","name":"😎酷我音乐(听歌)","type":3,"group":"5","api":"http://43.249.195.13:10213/pyy/kuwo.py","searchable":1,"changeable":1,"quickSearch":1,"filterable":1
 },
-
+{"key":"pingg","name":"🐌蜗牛影院(4k超清)","type":3,"api":"http://43.249.195.13:10213/pyy/gulugulu.py","searchable":1,"group":"1","changeable":1,"quickSearch":1,"filterable":1},
 {
  "name":"⭐万彩影视(1080P)","type":3,"group":"1","api":"http://203.135.100.107:8866/asdasd/xinpy/\u4e07\u5f69\u574a\u5f71\u89c6.py","searchable":1,"category":"\u7efc\u5408"
 },
