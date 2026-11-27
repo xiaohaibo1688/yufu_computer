@@ -177,21 +177,12 @@
       "quickSearch": 1,
       "filterable": 0
     },
-{"key":"瓜子影视","name":"🥇瓜子｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox2@main/py/GZYS.py","changeable":1},
-{"key":"独播库","name":"🥇播库┃影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox2@main/js/VmOlRys8_vip.js"},
-{"key":"华数","name":"🥇华数｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox2@main/py/华数.py","changeable":1},
+{"key":"独播库","name":"🥇播库影视(1080P)","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox2@main/js/VmOlRys8_vip.js"},
 {"key": "猎手","name": "🥇猎手丨影视","type": 3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox2@main/py/猎手.py"},
-{"key": "央视","name": "🥇央视丨影视","type": 3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox2@main/py/央视.py"},
 {"key":"py_文才","name":"🥇文才｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox2@main/py/文才影视.py","searchable":1,"quickSearch":1,"filterable":1,"ext":{"site":"https://www.sizhengxt.com,https://www.tjrongze.com,https://www.jiabaide.cn"}},
-{"key":"py_6v","name":"🥇四影｜影视","type":3,"api":"https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox2@main/js/4Kvm.js","searchable":1,"changeable":1,"quickSearch":1,"filterable":1,"playerType":2},
-{"key": "枫叶","name": "🥇枫叶丨影视","type": 3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox2@main/py/maple.py"},
-{"key": "剧踪","name": "🥇剧踪丨影视","type": 3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox2@main/py/juzong.py"},
+
 {"key": "多多","name": "🥇多多丨影视","type": 3,"api": "https://cdn.jsdmirror.com/gh/ouhaibo1980/tvbox2@main/py/duoduo.py"},
 
-{"key":"无水印采集","name":"🐮纯净┃资源","type":1,"api":"https://api.wsyzy.net/api.php/provide/vod/?ac=list","categories":["国产剧","欧美剧","香港剧","韩剧","台湾剧","日剧","海外剧","泰剧","动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","惊悚片","战争片","动漫电影","国产动漫","日韩动漫","欧美动漫","年代穿越","反转爽剧","古装仙侠","现代都市","女频恋爱","漫剧","擦边短剧","有声动漫","大陆综艺","日韩综艺","港台综艺","欧美综艺"]},
-{"key":"量子资源","name":"🐮量子┃资源","type":1,"api":"https://cj.lziapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-{"key":"非凡资源","name":"🐮非凡┃资源","type":1,"api":"http://cj.ffzyapi.com/api.php/provide/vod/","searchable":1,"changeable":1,"categories":["动作片","喜剧片","科幻片","恐怖片","爱情片","剧情片","战争片","记录片","国产剧","欧美剧","香港剧","韩国剧","台湾剧","日本剧","海外剧","泰国剧","国产动漫","日韩动漫","欧美动漫","港台动漫","海外动漫","大陆综艺","港台综艺","日韩综艺","欧美综艺"]},
-    
     {
       "key":"苹果",
       "name":"🍎苹果(720P&1080p&4K)",
